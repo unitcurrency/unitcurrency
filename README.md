@@ -3,8 +3,9 @@ UniversalCurrency (UNIT)
 
 Copyright Â© 2009-2015 The Bitcoin developers
 Copyright Â© 2013 PPCoin developers
-Copyright Â© 2013  Novacoin developers
+Copyright Â© 2013 Novacoin developers
 Copyright Â© 2014 BitcoinDark developers
+Copyright Â© 2015 Positron developers
 Copyright Â© 2015 UniversalCurrency developers
 
 
