@@ -1,0 +1,2 @@
+debian/bin/UniversalCurrencyd usr/bin
+src/UniversalCurrencyd usr/lib/UniversalCurrency
