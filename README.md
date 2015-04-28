@@ -5,8 +5,6 @@ Copyright © 2009-2015 The Bitcoin developers
 Copyright © 2013 PPCoin developers
 Copyright © 2013 Novacoin developers
 Copyright © 2014 BitcoinDark developers
-Copyright © 2014 Blackcoin developers
-Copyright © 2015 Positron developers
 Copyright © 2015 UniversalCurrency developers
 
 
