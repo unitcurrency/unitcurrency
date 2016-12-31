@@ -66,7 +66,7 @@ make
 
 cd ..
 
-make -f makefile.unix USE_UPNP=-
+make -f makefile.unix
 
 cp UniversalCurrencyd /usr/sbin/
 
