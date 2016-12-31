@@ -62,7 +62,7 @@ cd src/leveldb/
 
 chmod 755 build_detect_platform
 
-make
+make libleveldb.a libmemenv.a
 
 cd ..
 
