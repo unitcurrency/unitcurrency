@@ -76,23 +76,39 @@ cp UniversalCurrencyd /usr/sbin/
 UniversalCurrency.conf
 
 rpcuser=UniversalCurrencyrpc
+
 rpcpassword=UniversalCurrencyrpcPassword
+
 daemon=1
+
 rpcport=14157
+
 rpcallowip=127.0.0.1
+
 port=14158
+
 listen=1
+
 server=1
-#enableaccounts=1
+
 staking=1
+
 addnode=103.22.181.2
+
 addnode=45.63.12.65
+
 addnode=108.61.166.98
+
 addnode=45.32.176.75
+
 addnode=45.32.180.72
+
 addnode=45.76.83.173
+
 addnode=104.238.190.103
+
 addnode=108.61.180.37
+
 addnode=45.32.117.111
 
 
