@@ -36,7 +36,9 @@ RPC Port: 14157
 P2P Port: 14158
 
 See bitcointalk.org UniversalCurrency thread for more info
+
 https://bitcointalk.org/index.php?topic=1037825.0
+
 https://www.u-currency.com
 
 ======================================================
