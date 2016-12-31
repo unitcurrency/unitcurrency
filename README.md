@@ -54,6 +54,21 @@ apt-get install git ntp make g++ gcc autoconf cpp ngrep iftop sysstat autotools-
 
 sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler libqrencode-dev
 
+
+wget -q http://miniupnp.free.fr/files/download.php?file=miniupnpc-2.0.tar.gz -O miniupnpc-2.0.tar.gz
+
+tar xzf miniupnpc-2.0.tar.gz
+
+cd miniupnpc-2.0
+
+make install
+
+cd ..
+
+rm -rf miniupnpc-2.0 miniupnpc-2.0.tar.gz
+
+
+
 git clone https://github.com/unitcurrency/unitcurrency.git
 
 cd unitcurrency/
