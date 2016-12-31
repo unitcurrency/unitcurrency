@@ -1,9 +1,0 @@
-Building UniversalCurrency
-
-See doc/readme-qt.rst for instructions on building UniversalCurrency QT,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of UniversalCurrency.
-
-See doc/build-*.txt for instructions on building UniversalCurrencyd,
-the intended-for-services, no-graphical-interface, reference
-implementation of UniversalCurrency.
