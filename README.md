@@ -147,6 +147,19 @@ UniversalCurrencyd
 
 
 ======================================================
+
+UniversalCurrency.conf
+======================================================
+
+rpcuser=UniversalCurrencyrpc
+rpcpassword=JZfRcHJzKzRs5XppNFr5dR1aMbrzQKWR15CpjFrX8aE
+server=1
+listen=1
+daemon=1
+port=14158
+rpcport=14157
+rpcallowip=127.0.0.1
+
 ======================================================
 ======================================================
 
